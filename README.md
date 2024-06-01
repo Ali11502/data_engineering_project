@@ -1,6 +1,7 @@
 # README
 
 
+## click [here](https://khiibaedu-my.sharepoint.com/:v:/g/personal/a_iqbal_24529_khi_iba_edu_pk/Efb2xQivzuVJtqZPvjBOnOoBElC1ygtvvyYuviDRi9HAVA?e=tHfuhL) to view the testing of pipeline.
 ## The spaghetti folder contains the data in OLTP. Our task is to create a dummy OLTP with data (refer to the spaghetti folder).
 
 ### 1. The `python_scripts/ETL` file has the pipeline code. You need to change the credentials of the source and destination databases (OLAP or Data Warehouse).
